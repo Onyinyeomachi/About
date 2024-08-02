@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Machi
 ![](https://github.com/Onyinyeomachi/Onyinyeomachi/edit/main/README.md)
 
-I'm a motivated software developer with a focus on web development. I've been dedicated to improving my skills and gaining exposure, and have produced and released content that is currently in use today. I co-founded a startup with writers, digital marketers, social media experts, designers, and SEO specialists, where we build custom websites for clients. This experience has honed my technical skills in HTML, CSS, JavaScript, Django, React.js, and Azure, and demonstrated my ability to work effectively in a collaborative environment. Thank you for reviewing my profile!
+I'm a motivated software developer with a focus on web development. I've been dedicated to improving my skills and gaining exposure, and have produced and released content that is currently in use today. I co-founded a startup with writers, digital marketers, social media experts, designers, and SEO specialists, where we build custom websites for clients. This experience has honed my technical skills in HTML, CSS, JavaScript, Django, React.js, and Azure, and demonstrated my ability to work effectively in a collaborative environment. Thank you for viewing my profile!
 
 Skills: / ReactJS / Javascript / HTML / CSS /  Django / C# / .NET / Python / Git / Microsoft Azure / Frontend / Backend / Wordpress / Docker / Linux / Node / SQL
 
