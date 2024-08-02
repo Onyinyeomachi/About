@@ -9,7 +9,6 @@ Skills: / ReactJS / Javascript / HTML / CSS /  Django / C# / .NET / Python / Git
 - 🌱 I’m currently learning AI 
 - 👯 I’m looking to collaborate on open source projects 
 - 💬 Ask me about Python, Javascript, React, Django 
-- 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I have a pet cat named Byte 
 
 
