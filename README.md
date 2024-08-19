@@ -6,7 +6,7 @@ I'm a motivated software developer with a focus on web development. I've been de
 Skills: / ReactJS / Javascript / HTML / CSS /  Django / C# / .NET / Python / Git / Microsoft Azure / Frontend / Backend / Wordpress / Docker / Linux / Node / SQL
 
 - 🔭 I’m currently working on Algorithms 
-- 🌱 I’m currently learning AI 
+- 🌱 I’m currently learning React JS, TypeScript 
 - 👯 I’m looking to collaborate on open source projects 
 - 💬 Ask me about Python, Javascript, React, Django 
 - ⚡ Fun fact: I have a pet cat named Byte 
