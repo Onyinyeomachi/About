@@ -1,15 +1,15 @@
 ### Hi there 👋, My name is Machi
 ![](https://github.com/Onyinyeomachi/Onyinyeomachi/edit/main/README.md)
 
-I'm a motivated software developer with a focus on web development. I've been dedicated to improving my skills and gaining exposure, and have produced and released content that is currently in use today. I co-founded a startup with writers, digital marketers, social media experts, designers, and SEO specialists, where we build custom websites for clients. This experience has honed my technical skills in HTML, CSS, JavaScript, Django, React.js, and Azure, and demonstrated my ability to work effectively in a collaborative environment. Thank you for viewing my profile!
+Not only do I eat data everyday, I also write about it.
 
-Skills: / ReactJS / Javascript / HTML / CSS /  Django / C# / .NET / Python / Git / Microsoft Azure / Frontend / Backend / Wordpress / Docker / Linux / Node / SQL
+Skills: / Excel / Power BI / Tableau / SQL /  Python / Django / Git / Microsoft Azure / 
 
-- 🔭 I’m currently working on Algorithms 
-- 🌱 I’m currently learning React JS, TypeScript 
+- 🔭 I’m currently working on Machine Learning 
+- 🌱 I’m currently learning Artificial Intelligence, Machine Learning 
 - 👯 I’m looking to collaborate on open source projects 
-- 💬 Ask me about Python, Javascript, React, Django 
-- ⚡ Fun fact: I have a pet cat named Byte 
+- 💬 Ask me about Python, Power BI, Excel, SQL, Tableau.  
+- ⚡ Fun fact: My cat's name is Byte 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/linkedin.com/in/onyinyeomachi-onwubuariri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/onyinyeomachi-onwubuariri/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@sheis_machi/)  
