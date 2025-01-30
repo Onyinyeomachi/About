@@ -11,6 +11,6 @@ Skills: / Excel / Power BI / Tableau / SQL /  Python / Django / Git / Microsoft 
 - 🌱 I’m currently learning Artificial Intelligence, Machine Learning 
 - 👯 I’m looking to collaborate on open source projects 
 - 💬 Ask me about Python, Power BI, Excel, SQL, Tableau.  
-- ⚡ Fun fact: My cat's name is Byte 
+- ⚡ Fun fact: I love dancing and playing tennis 
 
 
